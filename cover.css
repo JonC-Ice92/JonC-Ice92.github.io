@@ -1,0 +1,53 @@
+h1{
+
+    color:rgb(252, 252, 252); 
+    font-size: 30pt;
+    text-align: center;
+    line-height: 650px;
+    height: 390px;
+    font-family: 'Roboto', sans-serif;   
+}
+
+h3{
+    color:rgb(252, 252, 252); 
+    font-size: 15pt;
+    text-align: left;
+    font-family: 'Bookman';
+}
+
+p{
+    color: rgb(252, 252, 252);
+    font-size: 20pt;
+    font-family: 'Roboto', sans-serif;
+    
+}
+body {
+    background-color: rgb(43, 43, 44);
+  }
+
+footer{
+    color: rgb(252, 252, 252);
+    padding-top: 200px;
+    text-align: center;
+    
+}
+
+.button{
+    color: lightseagreen;
+    background-color: rgb(72, 72, 97);
+    border: 100px rgb(255, 255, 255);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 12px;
+  
+}
+
+a{
+    color: lightseagreen;
+}
+main{
+    text-align: center;
+}
