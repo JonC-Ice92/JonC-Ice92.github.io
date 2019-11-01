@@ -1,7 +1,7 @@
 var x = [];
 var speed = .5
 function setup() {
-  createCanvas(2000, 800);
+  createCanvas(1000, 800);
   noStroke();
   fill(255, 200);
   for (var i = 0; i < 3000; i++) {
