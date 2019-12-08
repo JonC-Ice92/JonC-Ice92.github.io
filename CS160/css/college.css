@@ -37,3 +37,39 @@ table {
   .dropdown:hover .dropdown-menu {
     display: block;
   }
+
+  .button{
+    color: rgb(221, 74, 74);
+    background-color: rgb(0, 0, 0);
+    border: 100px rgb(255, 255, 255);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 12px; 
+}
+
+.button1{
+    color: rgb(221, 74, 74);
+    background-color: rgb(0, 0, 0);
+    border: 100px rgb(255, 255, 255);
+    padding: 9px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 12px; 
+  }
+
+  .button2{
+    color: rgb(0, 0, 0);
+    background-color: rgb(70, 192, 240);
+    border: 100px rgb(255, 255, 255);
+    padding: 15px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 12px; 
+  }
