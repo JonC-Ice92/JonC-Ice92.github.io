@@ -1,10 +1,15 @@
 function setup() {
-  createCanvas(120, 120);
+  createCanvas(1000, 800);
 }
 
 function draw() {
   translate(mouseX, mouseY);
-  rect(0, 0, 30, 30);
+  r = random(255); 
+  g = random(255); 
+  b = random(255);
+  a = random(230,255); 
+  fill(r,g,b,a)
+  arc(0, 0, 80, 80, radians(180), radians(180),);
   translate(35, 10);
-  rect(0, 0, 15, 15);
+  arc(0, 0, 80, 80, radians(180), radians(180),);
 }
