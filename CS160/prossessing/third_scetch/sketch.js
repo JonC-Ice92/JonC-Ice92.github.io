@@ -2,7 +2,7 @@ let img;
 
 function setup() {
   createCanvas(1000, 800, WEBGL);
-  img = loadImage('prossessing/babyyoda.jpg');
+  img = loadImage('../CS160/babyyoda.png');
 }
 
 function draw() {
