@@ -1,0 +1,65 @@
+h1{
+
+    color:rgb(252, 252, 252); 
+    font-size: 30pt;
+    text-align: center;
+    line-height: 650px;
+    height: 380px;
+    font-family: 'Roboto', sans-serif; 
+     
+}
+
+h3{
+    color:rgb(252, 252, 252); 
+    font-size: 15pt;
+    text-align: left;
+    font-family: 'Bookman';
+}
+
+p{
+    color: rgb(252, 252, 252);
+    font-size: 20pt;
+    font-family: 'Roboto', sans-serif;
+    
+}
+body {
+    background-color: rgb(0,0,0);
+    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/2444768054734981841/1A1C7C7245C283A83B918810C4EC19A2E620656F/);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+footer{
+    color: rgb(252, 252, 252);
+    padding-top: 200px;
+    text-align: center;
+    
+}
+
+.button{
+    color: rgb(221, 74, 74);
+    background-color: rgb(27, 19, 19);
+    border: 100px rgb(255, 255, 255);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 12px;
+  
+}
+.button1{
+    color: rgb(221, 74, 74);
+    background-color: rgb(27, 19, 19);
+    border: 100px rgb(255, 255, 255);
+    padding: 9px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 12px;
+  
+}
+main{
+    text-align: center;
+}
